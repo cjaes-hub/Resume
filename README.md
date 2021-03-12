@@ -16,10 +16,10 @@ Smoothstack, Inc., Fairfax, VA/ Seattle, WA
 
 _May 2020 - _Sep 2020_
 
-• Developed a web application to process customer information using React/Redux and Dynamics CRM. 
-• Improved CRM system performance by 20%.
-• Decreased memory consumption throughout the service by 15%. 
-• Improved customer service efficiency by automating business processes with c# and JavaScript.  
+- Developed a web application to process customer information using React/Redux and Dynamics CRM. 
+- Improved CRM system performance by 20%.
+- Decreased memory consumption throughout the service by 15%. 
+- Improved customer service efficiency by automating business processes with c# and JavaScript.  
 
 
 **Software Engineer**
