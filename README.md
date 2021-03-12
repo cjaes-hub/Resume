@@ -14,7 +14,7 @@
 
 Smoothstack, Inc., Fairfax, VA/ Seattle, WA
 
-_May 2020 - _Sep 2020_
+_May 2020 - Sep 2020_
 
 - Developed a web application to process customer information using React/Redux and Dynamics CRM. 
 - Improved CRM system performance by 20%.
