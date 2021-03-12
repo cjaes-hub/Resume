@@ -28,13 +28,13 @@ Rifird, San Francisco, CA/ Seattle, WA
 
 _Jan 2017 - Apr 2020_
 
-• Developed stream and batch data processing services for analytics via GCP, Dataflow, Apache Beam, Cloud Functions, BigQuery. 
-• Developed a web application for the business referral system on AWS.
-• Developed front-end using React/Redux as a SPA and backend functionality using Spring, PostgreSQL. 
-• Implemented, tested, and released REST endpoints for the mobile clients (iOS and Android). 
-• Implemented business email and phone verification as a part of self-service via Twilio API. 
-• Built the payment tracking service with Springboot and React.
-• Built integration tests and increased unit test coverage across the service to 80%.
+- Developed stream and batch data processing services for analytics via GCP, Dataflow, Apache Beam, Cloud Functions, BigQuery. 
+- Developed a web application for the business referral system on AWS.
+- Developed front-end using React/Redux as a SPA and backend functionality using Spring, PostgreSQL. 
+- Implemented, tested, and released REST endpoints for the mobile clients (iOS and Android). 
+- Implemented business email and phone verification as a part of self-service via Twilio API. 
+- Built the payment tracking service with Springboot and React.
+- Built integration tests and increased unit test coverage across the service to 80%.
 
 
 **Field Engineer/Technical Professional**
@@ -43,12 +43,12 @@ Halliburton Energy Services, Fort Smith, AR
 
 _January 2011 - April 2015_
 
-• Developed employee time-tracking service using Python.
-• Wrote a cleaning service to improve data quality by 20%.
-• Increased department revenue by 40% over the 2 year period.
-• Built conceptual models to simulate and test production enhancement studies.
-• Identified bottlenecks, anticipated points of resistance, and developed plans to mitigate concerns.
-• Mentored and encouraged newly hired engineers by taking ownership of initiatives.
+- Developed employee time-tracking service using Python.
+- Wrote a cleaning service to improve data quality by 20%.
+- Increased department revenue by 40% over the 2 year period.
+- Built conceptual models to simulate and test production enhancement studies.
+- Identified bottlenecks, anticipated points of resistance, and developed plans to mitigate concerns.
+- Mentored and encouraged newly hired engineers by taking ownership of initiatives.
 
 
 ---
@@ -71,7 +71,7 @@ Montana Tech of the University of Montana - Butte, MT
 
 ## Technical Skills
 
-C#, Java, JavaScript, Python, HTML, CSS, React, jQuery, MS Dynamics365 CRM, PostgreSQL, Node.js, SpringBoot, Agile, Scrum
+C#, Java, C#, Python, Javascript, TypeScript, HTML, CSS, jQuery, React, Spring, Spark, Beam, Cloud Dataflow, Cloud Dataproc, Docker, Microservices, AWS, MongoDB, PostgreSQL, Microsoft Power Platform.
 
 ---
 
